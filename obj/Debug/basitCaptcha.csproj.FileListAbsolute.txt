@@ -1,0 +1,9 @@
+C:\Users\yns3g\source\repos\basitCaptcha\bin\Debug\basitCaptcha.exe.config
+C:\Users\yns3g\source\repos\basitCaptcha\bin\Debug\basitCaptcha.exe
+C:\Users\yns3g\source\repos\basitCaptcha\bin\Debug\basitCaptcha.pdb
+C:\Users\yns3g\source\repos\basitCaptcha\obj\Debug\basitCaptcha.Form1.resources
+C:\Users\yns3g\source\repos\basitCaptcha\obj\Debug\basitCaptcha.Properties.Resources.resources
+C:\Users\yns3g\source\repos\basitCaptcha\obj\Debug\basitCaptcha.csproj.GenerateResource.cache
+C:\Users\yns3g\source\repos\basitCaptcha\obj\Debug\basitCaptcha.csproj.CoreCompileInputs.cache
+C:\Users\yns3g\source\repos\basitCaptcha\obj\Debug\basitCaptcha.exe
+C:\Users\yns3g\source\repos\basitCaptcha\obj\Debug\basitCaptcha.pdb
